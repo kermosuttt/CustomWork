@@ -1,0 +1,21 @@
+
+
+body {
+  background-image: url(https://static.wixstatic.com/media/0514c7_47c1b482f5334483b242d1b1f3b61ebe~mv2.jpg/v1/fill/w_1920,h_1277,al_c,q_90,usm_0.66_1.00_0.01/0514c7_47c1b482f5334483b242d1b1f3b61ebe~mv2.jpg);
+  background-size: cover;
+}
+
+
+header {
+  text-align: center;
+  flex-direction: inherit;
+  color: #1fd766;
+  list-style: none;
+  margin: 23em 44em;
+  align-items: center;
+  display: flex;
+}
+
+header p {
+
+}
