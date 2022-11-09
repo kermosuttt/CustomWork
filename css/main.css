@@ -16,6 +16,45 @@ header {
   display: flex;
 }
 
-header p {
+.middle {
+  color: white;
+  font-size: 150px;
+  margin: 0em 1em
+}
 
+.middle2 {
+  text-align: center;
+  flex-direction: inherit;
+  color: white;
+  list-style: none;
+  align-items: center;
+  display: flex;
+  margin: 3em;
+}
+
+.logo2 {
+  text-align: center;
+  flex-direction: inherit;
+  list-style: none;
+  align-items: center;
+  display: flex;
+  margin: 2em;
+}
+
+.bn59 {
+  background-color: white;
+  border: 1px solid rgba(54, 54, 54, 0.6);
+  font-weight: 600;
+  position: relative;
+  outline: none;
+  text-decoration: none;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  height: 45px;
+  width: 130px;
+  opacity: 1;
+  color: blue;
 }
